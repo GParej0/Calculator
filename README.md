@@ -14,7 +14,7 @@ Try it here:
 
 ## 📸 Preview
 
-![Calculator Preview](./preview.png)
+![Calculator Preview](./image.png)
 
 ---
 
